@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+</head>
+<body>
+<h1 align="center">Social Media Links</h1>
+         <p>
+         <h3>For Facebook</h3>
+         <a href="https://www.facebook.com/sasi.ac.in/">
+          CLICK HERE
+          </a>
+          <hr>
+          <h3>For Instragram</h3>
+         <a href="https://www.instagram.com/explore/locations/827519241/sasi-institute-of-technology-and-engineering/">
+          CLICK HERE
+          </a>
+          <hr>
+          <h3>For Sasi College</h3>
+          <a href="https://in.linkedin.com/school/sasi-institute-of-technology-&-engineering/">
+          CLICK HERE
+          </a>
+          <hr>
+     
+</body>
+</html>
