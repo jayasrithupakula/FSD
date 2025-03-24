@@ -1,0 +1,105 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px 60px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background: #007acc;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+header p {
+    font-size: 16px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Main Content */
+main {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #007acc;
+}
+
+/* Aside Section */
+aside {
+    background: #e7f3ff;
+    padding: 15px;
+    border-left: 5px solid #007acc;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+/* Figure Styles */
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+
+figure img {
+    width: 50%;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+figcaption {
+    font-style: italic;
+    color: #555;
+    margin-top: 8px;
+}
+
+/* Article */
+article {
+    padding: 15px;
+    background: #d9f7be;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background: #007acc;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
